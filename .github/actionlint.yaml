@@ -1,0 +1,5 @@
+self-hosted-runner:
+  # Blacksmith's runners, which actionlint does not know.
+  labels:
+    - ubuntu-latest
+    - macos-latest
